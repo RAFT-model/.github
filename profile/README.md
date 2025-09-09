@@ -1,4 +1,4 @@
-# RAFT: The Risk Assessment Framework for Tropical Cyclones
+# RAFT: The Risk Analysis Framework for Tropical Cyclones
 
 RAFT is a suite of tools and models that, when combined, are capable of efficiently simulating millions of tropical cyclones (a.k.a. hurricanes or typhoons) and their impacts.
 
